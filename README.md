@@ -1,4 +1,3 @@
-# fifa-data
+# fifa-analyse
 
-
-# analize
+Ce repository sur GitHub est dédié à l'analyse des données des joueurs de FIFA 23 en utilisant des techniques de régression linéaire et de régression Lasso. Il utilise les données récupérées par du webscraping de se repository et les traite à l'aide de Python et des bibliothèques telles que Pandas, Numpy, sns et Scikit-learn. Les données sont analysées pour identifier les facteurs les plus importants qui influencent les performances des joueurs, telles que les statistiques, les clubs et les positions. Les résultats de l'analyse sont présentés sous forme de graphiques et de tableaux pour une meilleure compréhension. Le code inclus également les fonctions pour l'entraînement et l'évaluation de modèles de régression linéaire et Lasso. Ce repository est utile pour les développeurs et les amateurs de FIFA qui cherchent à utiliser les techniques d'analyse de données pour mieux comprendre les performances des joueurs de FIFA 23.
